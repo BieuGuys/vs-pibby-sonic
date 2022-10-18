@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				46,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				61,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				13,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				26,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				-34,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				65,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left_miss"
+		},
+		{
+			"offsets": [
+				5,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down_miss"
+		},
+		{
+			"offsets": [
+				39,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up_miss"
+		},
+		{
+			"offsets": [
+				-35,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right_miss"
+		},
+		{
+			"offsets": [
+				61,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				-26,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf-death-confirm"
+		},
+		{
+			"offsets": [
+				-26,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf-deathloop"
+		},
+		{
+			"offsets": [
+				-26,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf-death0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-pibby",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		69,
+		16,
+		215
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.98
+}
