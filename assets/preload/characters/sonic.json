@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-361,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pibby Sonic Idle"
+		},
+		{
+			"offsets": [
+				-125,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pibby Sonic Left"
+		},
+		{
+			"offsets": [
+				-33,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pibby Sonic Right"
+		},
+		{
+			"offsets": [
+				-155,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pibby Sonic Up"
+		},
+		{
+			"offsets": [
+				-222,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pibby Sonic Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pibby Sonic",
+	"position": [
+		-440,
+		-100
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		60,
+		175
+	],
+	"camera_position": [
+		320,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
